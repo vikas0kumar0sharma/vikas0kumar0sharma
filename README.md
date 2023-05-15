@@ -1,5 +1,5 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif
-)
+<!-- ![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif
+) -->
 
 
 <h1 align="center">Hi 👋, I'm Vikas</h1>
