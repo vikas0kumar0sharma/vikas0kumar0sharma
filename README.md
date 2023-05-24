@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **svikaskumar23@gmai.com**
+- 📫 How to reach me **svikaskumar23@gmail.com**
 
 - ⚡ Fun fact **I think fixing bugs in code is interesting.**
 
