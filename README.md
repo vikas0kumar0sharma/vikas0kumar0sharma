@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">A passionate frontend developer and competitive programmer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 
 
